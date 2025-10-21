@@ -1,0 +1,106 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A cozy, retro-style cafe interior",
+      "imageUrl": "https://images.unsplash.com/photo-1684651402212-bfcb47bbc6c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyZXRybyUyMGNhZmV8ZW58MHx8fHwxNzYwODQxMzkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "retro cafe"
+    },
+    {
+      "id": "prod_1",
+      "description": "A classic hot coffee in a vintage cup",
+      "imageUrl": "https://images.unsplash.com/photo-1523179985834-1363f5c47d84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxob3QlMjBjb2ZmZWV8ZW58MHx8fHwxNzYwODIzODI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hot coffee"
+    },
+    {
+      "id": "prod_2",
+      "description": "An aromatic espresso shot",
+      "imageUrl": "https://images.unsplash.com/photo-1627902511858-6ad7e004fd35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxlc3ByZXNzbyUyMHNob3R8ZW58MHx8fHwxNzYwODU1NzIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "espresso shot"
+    },
+    {
+      "id": "prod_3",
+      "description": "A creamy cappuccino with latte art",
+      "imageUrl": "https://images.unsplash.com/photo-1581572253276-6e28c7eebbf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjYXBwdWNjaW5vJTIwYXJ0fGVufDB8fHx8MTc2MDkxNjkwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cappuccino art"
+    },
+    {
+      "id": "prod_4",
+      "description": "An iced coffee frappe with whipped cream",
+      "imageUrl": "https://images.unsplash.com/photo-1653122025505-eb23942cf527?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpY2VkJTIwZnJhcHBlfGVufDB8fHx8MTc2MDkxNjkwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "iced frappe"
+    },
+    {
+      "id": "prod_5",
+      "description": "A refreshing fruit smoothie",
+      "imageUrl": "https://images.unsplash.com/photo-1594013786645-e2ddb258e371?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmcnVpdCUyMHNtb290aGllfGVufDB8fHx8MTc2MDkwOTEwNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fruit smoothie"
+    },
+    {
+      "id": "prod_6",
+      "description": "A chocolate milkshake with a cherry on top",
+      "imageUrl": "https://images.unsplash.com/photo-1634112957296-3f60457b21e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hvY29sYXRlJTIwbWlsa3NoYWtlfGVufDB8fHx8MTc2MDg4ODM3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate milkshake"
+    },
+    {
+      "id": "prod_7",
+      "description": "A delicious chocolate croissant",
+      "imageUrl": "https://images.unsplash.com/photo-1616150890958-f0c9f9018302?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hvY29sYXRlJTIwY3JvaXNzYW50fGVufDB8fHx8MTc2MDkxNjkwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate croissant"
+    },
+    {
+      "id": "prod_8",
+      "description": "A slice of classic cheesecake",
+      "imageUrl": "https://images.unsplash.com/photo-1638890745037-3f06f2bb47d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjaGVlc2VjYWtlJTIwc2xpY2V8ZW58MHx8fHwxNzYwODQxMzkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cheesecake slice"
+    },
+    {
+      "id": "prod_9",
+      "description": "A red velvet cupcake with cream cheese frosting",
+      "imageUrl": "https://images.unsplash.com/photo-1610851467358-e2a4a5804335?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxyZWQlMjBjdXBjYWtlfGVufDB8fHx8MTc2MDkxNjkwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red cupcake"
+    },
+    {
+      "id": "prod_10",
+      "description": "A savory ham and cheese sandwich",
+      "imageUrl": "https://images.unsplash.com/photo-1593897974617-15af65308940?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxoYW0lMjBzYW5kd2ljaHxlbnwwfHx8fDE3NjA5MTY5MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ham sandwich"
+    },
+    {
+      "id": "prod_11",
+      "description": "An avocado toast with a poached egg",
+      "imageUrl": "https://images.unsplash.com/photo-1687276287139-88f7333c8ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhdm9jYWRvJTIwdG9hc3R8ZW58MHx8fHwxNzYwODI1MjI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "avocado toast"
+    },
+    {
+      "id": "prod_12",
+      "description": "A classic quiche lorraine slice",
+      "imageUrl": "https://images.unsplash.com/photo-1727178757756-8d2accd05082?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxxdWljaGUlMjBsb3JyYWluZXxlbnwwfHx8fDE3NjA5MTY5MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "quiche lorraine"
+    },
+    {
+      "id": "testimonial_1",
+      "description": "Happy customer enjoying coffee",
+      "imageUrl": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzbWlsaW5nJTIwcGVyc29ufGVufDB8fHx8MTc2MDg0MDM3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling person"
+    },
+    {
+      "id": "testimonial_2",
+      "description": "Customer smiling and holding a pastry",
+      "imageUrl": "https://images.unsplash.com/photo-1535295972055-1c762f4483e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYXBweSUyMHBlcnNvbnxlbnwwfHx8fDE3NjA4MzU0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy person"
+    },
+    {
+      "id": "testimonial_3",
+      "description": "Pleased customer looking at the camera",
+      "imageUrl": "https://images.unsplash.com/photo-1704809015595-56fa449dd3db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjdXN0b21lciUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MDgyNjIzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "customer portrait"
+    },
+    {
+      "id": "register_profile",
+      "description": "Retro illustration for profile picture upload",
+      "imageUrl": "https://images.unsplash.com/photo-1688587571105-c770775b2b42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxyZXRybyUyMGF2YXRhcnxlbnwwfHx8fDE3NjA5MTY5MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "retro avatar"
+    }
+  ]
+}

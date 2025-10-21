@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 60 56% 93%; /* beige */
+    --foreground: 30 35% 25%; /* dark-brown */
+
+    --card: 60 56% 95%;
+    --card-foreground: 30 35% 25%;
+
+    --popover: 60 56% 93%;
+    --popover-foreground: 30 35% 25%;
+
+    --primary: 34 33% 52%; /* A darker brown for better contrast #A58A66 */
+    --primary-foreground: 60 30% 98%; /* Off-white #FDFBF8 */
+
+    --secondary: 34 44% 85%; /* Lighter pastel brown */
+    --secondary-foreground: 30 35% 25%;
+
+    --muted: 34 44% 90%;
+    --muted-foreground: 30 35% 45%;
+
+    --accent: 205 93% 71%; /* soft turquoise */
+    --accent-foreground: 30 35% 15%;
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 34 44% 80%;
+    --input: 34 44% 88%;
+    --ring: 205 93% 71%;
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 30 15% 12%; /* Dark brown background */
+    --foreground: 40 20% 90%;
+
+    --card: 30 15% 15%;
+    --card-foreground: 40 20% 90%;
+
+    --popover: 30 15% 12%;
+    --popover-foreground: 40 20% 90%;
+
+    --primary: 34 44% 69%; /* #D2B48C */
+    --primary-foreground: 30 15% 10%;
+
+    --secondary: 30 15% 25%;
+    --secondary-foreground: 40 20% 90%;
+
+    --muted: 30 15% 20%;
+    --muted-foreground: 40 20% 60%;
+
+    --accent: 205 80% 75%;
+    --accent-foreground: 30 15% 10%;
+
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 30 15% 25%;
+    --input: 30 15% 28%;
+    --ring: 34 44% 69%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    background-image: radial-gradient(hsl(var(--primary) / 0.1) 1px, transparent 1px);
+    background-size: 16px 16px;
+  }
+}
